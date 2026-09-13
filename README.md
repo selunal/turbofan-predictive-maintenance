@@ -1,4 +1,4 @@
-# turbofan-predictive-maintenance
+
 # Turbofan Engine Predictive Maintenance
 
 NASA CMAPSS Turbofan Jet Engine dataset kullanılarak geliştirilen bir RUL 
